@@ -1,0 +1,6 @@
+release,show,at,supply,taken,state
+L0,S0,2026-06-01T09:00,42,41,closed
+L1,S1,2026-09-01T09:00,30,30,sold_out
+L2,S1,2026-09-05T09:00,12,12,sold_out
+L3,S2,2026-09-06T09:00,26,19,open
+L00,S00,2026-07-01T10:00,20,20,sold_out
